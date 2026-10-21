@@ -1,4 +1,4 @@
-# LPC2129-Based Health Monitoring System
+# Smart Health Monitoring System
 
 ## 📌 Project Overview
 
